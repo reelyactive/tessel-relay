@@ -2,10 +2,13 @@ tessel-relay
 ============
 
 
+![tessel-relay](http://reelyactive.github.io/images/tesselHub-connected.jpg)
+
+
 Prerequisites
 -------------
 
-You will require a [Tessel 2](https://tessel.io/) and our [minimal starter kit](http://shop.reelyactive.com/products/starterkit-min).  Complete the [Tessel 2 Installation](http://tessel.github.io/t2-start/) to ensure that the Tessel 2 is connected and updated, and the t2-cli command-line tools are installed.  Connect the minimal starter kit via the Tessel 2's USB port.
+You will require a [Tessel 2](https://tessel.io/) and our [minimal starter kit](http://shop.reelyactive.com/products/starterkit-min).  See our [Make a Tessel Hub](http://reelyactive.github.io/make-a-tessel-hub.html) tutorial for details.  Complete the [Tessel 2 Installation](http://tessel.github.io/t2-start/) to ensure that the Tessel 2 is connected and updated, and the t2-cli command-line tools are installed.  Connect the minimal starter kit via the Tessel 2's USB port.
 
 
 Installation
