@@ -1,6 +1,6 @@
 {
   "name": "tessel-relay",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tessel 2 based relay of real-time events to a remote server. We believe in an open Internet of Things.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "RTLS"
   ],
   "dependencies": {
-    "barnowl": ">=0.4.21",
+    "barnowl": "0.4.21",
     "serialport": "2.0.6",
     "reelib": ">=0.0.11"
   },
